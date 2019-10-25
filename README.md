@@ -7,9 +7,9 @@ SMS Gratis menggunakan api web sms.payuterus.biz dengan menggunakan bahasa pemro
 $pkg install git
 $pkg install python
 $pip install requests
-$git clone https://github.com/Xractz/fsms
-$cd fsms
-$python fsms.py
+$git clone https://github.com/BangS66/Suka-suka
+$cd Suka-suka
+$python Suka.py
 ```
 
 
