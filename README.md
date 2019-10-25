@@ -13,5 +13,5 @@ $python Suka.py
 ```
 
 
-Copyright © 2019, Xractz - IndoSec
+Copyright © 2019, Bang Sinot
 
